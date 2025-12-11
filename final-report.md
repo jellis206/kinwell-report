@@ -4,6 +4,8 @@ Automated phone call check-ins for elderly loved ones.
 No extra hardware required. Get peace-of-mind with real-time reports.
 **Stay connected with your loved ones**
 
+[link to private repo](https://github.com/kinwellkrew/kinwell)
+
 ---
 
 ## Summary
